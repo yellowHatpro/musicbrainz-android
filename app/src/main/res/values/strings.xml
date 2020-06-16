@@ -125,4 +125,9 @@
     <string name="settings_use_language_summary">This option overrides the user specified system language and
     displays all the user interface in English only.</string>
 
+    <string name="settings_listens">Listens</string>
+    <string name="settings_listenbrainz_token">ListenBrainz User Token</string>
+    <string name="settings_listenbrainz_token_summary">Enter the ListenBrainz User Token available
+        at https://listenbrainz.org/profile/</string>
+    <string name="settings_listenbrainz_enabled">Enable Listens Service</string>
 </resources>
